@@ -2,3 +2,5 @@
 .qrImg{background:white;padding:10px;border-radius:18px;max-width:240px;width:80%;height:auto}
 
 .completeNotice{padding:12px 14px;border-radius:16px;background:rgba(34,197,94,.18);border:1px solid rgba(34,197,94,.35);font-weight:1000;color:#bbf7d0}.chat{scroll-behavior:auto}.chatLine{word-break:break-word}
+
+.deadChatCard{background:rgba(15,23,42,.72);border-color:rgba(148,163,184,.35)}.deadChatCard h3{margin-top:8px;color:#fde68a}
